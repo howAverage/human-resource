@@ -1,0 +1,63 @@
+#sectioncontact img{
+    border-radius: 10px;
+    margin-top:30px;
+    margin-right:10px;
+    padding:7px;
+}
+.icons{
+    display: flex;
+    justify-content: space-around;
+}
+#sectioncontact{
+    background: maroon;
+    background-size: cover;    
+}
+.head{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight:500;
+    color: azure;
+}
+.name{
+    font-weight: 700;
+    font-size:50px;
+    color:orangered;
+    font-family: fantasy;
+    text-decoration: underline;
+}
+input{
+    background:antiquewhite
+}
+li{
+    color: aliceblue;
+    font-weight: bold;
+}
+.d-flex input{
+    color:white;
+}
+#sectionbody{
+    background-size: cover;
+    background: url(images/champ1.jpg)
+}
+.narration{
+    color:azure;
+    font-size:22px;
+    font-weight: 300;
+}
+.heed{
+    font-weight: 700;
+    font-size:50px;
+    color:orangered;
+    font-family: fantasy;
+    text-decoration: underline;
+    background: transparent;
+    text-align: center;
+    height:90px;
+    /* background-position: center; */
+    background-size: cover;
+}
+.clinks a{
+    text-decoration: none;
+    color:magenta
+}

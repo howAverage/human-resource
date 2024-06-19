@@ -1,0 +1,83 @@
+#sectionbody{
+    background: url(images/li_7.jpg);
+    background-size:cover;    
+}
+.head{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight:500;
+    color: azure;
+}
+.name{
+    font-weight: 700;
+    font-size:50px;
+    color:orangered;
+    font-family: fantasy;
+    text-decoration: underline;
+}
+input{
+    background:antiquewhite
+}
+li{
+    color: aliceblue;
+    font-weight: bold;
+}
+.d-flex input{
+    color:white;
+}
+.head2{
+    text-align: center;
+    text-emphasis: none;
+    font-family: cursive;
+    color: rgb(42, 228, 42);
+}
+.content{
+    font-weight: bold;
+    color:mistyrose;
+    display: flex;
+    justify-content: center;
+    margin-left: 24px;
+}
+.card-body{
+    color:white;
+    font-weight: 200;
+}
+#body img{
+    width:260px;
+    height:280px;
+    border-radius:10px;
+}
+.head3{
+    text-align: center;
+    text-emphasis: none;
+    font-family: cursive;
+    color: rgb(42, 228, 42);
+    font-size:24px;
+}
+.card-text{
+    color:brown;
+    font-style: italic;
+    font-size:20px;
+}
+#sectioncontact{
+    background: maroon;
+    background-size: cover;    
+}
+.left{
+    margin-left: 25px;
+}
+.clinks a{
+    text-decoration: none;
+    color:magenta
+}
+#sectioncontact img{
+    border-radius: 10px;
+    margin-top:30px;
+    margin-right:10px;
+    padding:7px;
+}
+.icons{
+    display: flex;
+    justify-content: space-around;
+}
